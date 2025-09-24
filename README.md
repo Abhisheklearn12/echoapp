@@ -1,7 +1,7 @@
 
 ---
 
-## Step 1.) — Run the server
+## Step 1.) Run the server
 
 ```bash
 go run main.go
@@ -15,7 +15,7 @@ You should see:
 
 ---
 
-## Step 2.) — Test with curl
+## Step 2.) Test with curl
 
 ```bash
 # 1) Health
